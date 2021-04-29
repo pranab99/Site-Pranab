@@ -67,7 +67,7 @@ p{
   border-radius: 50%;
   float: left;
   margin-right: 30px;
-  margin-top:20px;
+  margin-top:30px;
 }
 
 .skill-pic {
@@ -77,7 +77,7 @@ p{
   border-radius: 50%;
   float: right;
   margin-left: 30px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .skill-pic2 {
@@ -87,12 +87,12 @@ p{
   border-radius: 50%;
   float: left;
   margin-right: 30px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .poems {
   text-align: left;
-  width: 50.09%;
+  width: 52%;
   margin: 100px auto 100px auto;
   line-height: 2;
   
@@ -100,14 +100,14 @@ p{
 
 .skill-row {
   text-align: left;
-  width: 50.09%;
+  width: 52%;
   margin: 100px auto 100px auto;
   line-height: 2;
 }
 
 .skill-row2 {
   text-align: left;
-  width: 50.09%;
+  width: 52%;
   margin: 100px auto 100px auto;
   line-height: 2;
 }
